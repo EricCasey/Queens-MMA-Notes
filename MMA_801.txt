@@ -1,0 +1,41 @@
+# Course: MMA 801 - Intruduction to Financial Statements
+#### Instructor: Gary Bissonette
+#### Email: bissonet@queensu.ca
+#### Website: statista.com
+
+!! Read articles pre-intense-week
+
+## Lecure 0 - 05/04/18
+> [Deck](https://www.com.com)
+
+### C-level Resposiblity Cycle
+* Vision & Strategic Intent
+* Business Model Development & Management
+* Resource Timing, Allocation & Procurement *key part of C-level responsiblity for this course
+* Culture of Continuous Innovation
+* Repeat
+
+### The Capital Challenge
+* want more $
+* can't get mroe $ without investment
+* focus should be on ROIC (return on invested capital)
+
+### Business Model Analysis
+        Sell More, Less Margin - Sell Less, More margin
+
+        PIMS <--------------|-------------> ROS
+    profit impact                       return on sales
+    market share                        return on per-unit
+    high volume                         high margin
+
+* Return on investment Capital - ROIC
+    * Net Income
+        * Unit Margins
+            * Price
+            * Cost
+        * Unit Volumes
+            * Market Share
+            * Market Size
+    * Assets Deployed
+
+### 
