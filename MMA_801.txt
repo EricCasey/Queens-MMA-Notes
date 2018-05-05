@@ -21,12 +21,12 @@
 * focus should be on ROIC (return on invested capital)
 
 ### Business Model Analysis
-        Sell More, Less Margin - Sell Less, More margin
+Sell More, Less Margin - Sell Less, More margin
 
-        PIMS <--------------|-------------> ROS
-    profit impact                       return on sales
-    market share                        return on per-unit
-    high volume                         high margin
+        PIMS <-----------|----------> ROS
+    profit impact                  return on sales
+    market share                   return on per-unit
+    high volume                    high margin
 
 * Return on investment Capital - ROIC
     * Net Income
@@ -38,4 +38,40 @@
             * Market Size
     * Assets Deployed
 
-### 
+### Financial Fundementals
+
+##  Business Value Drivers
+* Organizational Wealth & Shraeholder Value
+    * s
+        * s
+    * w
+
+## Sources of Capital
+* Debt Financing
+    * Short Term Financing
+    * Long Term Financing
+* Equity
+    * Individuals
+    * Syndicates
+    * Venture Capital Fundementals
+    * IPOs
+    * APOs
+* Internal
+    * Asset Divestiture
+    * Cash Reserves
+    * Working Capital
+
+
+### Financial Statement Notes
+* "Statements are outcomes of managerial decision and operating execution of your business model for a devfined period of time"
+* "statements are historical by nature"
+
+1) Balance Sheet
+    * 
+2) Income Statement
+    * Revenue
+    * Gross Margin
+    * EBT: Earning Before Taxes (Operating Margin)
+3) else
+    * 
+
