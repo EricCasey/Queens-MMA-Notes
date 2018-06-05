@@ -77,6 +77,3 @@ Norm Changes
 > * Follow best practices, build systems early!
 > * Communicate, Communicate, Communicate!
 > * Use Karie as a resource!
-
-#### *LESSONS LEARNED*
-* TEST
