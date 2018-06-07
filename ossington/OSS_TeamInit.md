@@ -77,3 +77,11 @@ Norm Changes
 > * Follow best practices, build systems early!
 > * Communicate, Communicate, Communicate!
 > * Use Karie as a resource!
+
+
+## Special Admin Meeting
+
+9-10 admin meeting Monday
+
+Meeting Structure
+    * 
