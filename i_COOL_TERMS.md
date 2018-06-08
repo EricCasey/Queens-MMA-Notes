@@ -9,6 +9,12 @@
 ## _A Posteriori_
     * 'from the later'
 
+## _Non Sequitur_
+    * 'it does not follow'
+
+## _Likelyhood =/= Probablity_
+    * 'in stats, likelyhood and probablity are not synonymous'
+
 ## Type I Error
     * H<sub>0</sub> is true but regected.
 

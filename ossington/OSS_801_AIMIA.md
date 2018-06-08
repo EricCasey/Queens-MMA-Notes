@@ -23,12 +23,48 @@ Discunssing the AIMIA Case
 * Maybe Drop Flight Rewards
 * 
 
-## Meeting #2
+## Meeting #2 - 07/06/18 CANCELLED
 
+## Lecture #4
+* Define "Ideal Experience"
+* Define "Customer Touch Points" to excel at
+* Define AIMIA's market position
 
+Presenting to <> as consultants
 
+## Meeting #3 - 08/06/18
 
+### Constraints: 
+* Support existing Airline Focus
+* Cost Reduction
+* Liquidity (points run)
 
+### Focus on: 
+* Vertical Integration
+* Strengthening Analytic Capabilities
+* Member Experience / Ease of Use
+  * Leverage Mobile App & Location Data
+  * Scannable Bar Code
+* Branding / Rebranding as Experience Company
+* Tech / Payment
+  * Gaming Points
+* 'Turn-key' Solution For Partners
+* Integration of Networks
+
+#### _aerocoin_
+> * Access. Coverage. Value.
+
+not top of wallet, but on homepage
+
+### New Industries Considerations
+* Gaming
+* Entertainment
+* Gambling
+* Travel / Experience 
+* Mobile Orders
+* Paymentech
+* Shipping
+* Insurance
 
 
 
@@ -69,3 +105,4 @@ H3) What can I do to ensure my strategy lives
 Wait... how to keep people on aeroplan until devorce date or how to keep AIMIA alive now and after?
 
 Is their 'cash reserves' going to get consumed by points transfers.
+
