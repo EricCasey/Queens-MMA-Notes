@@ -50,6 +50,7 @@ Presenting to <> as consultants
   * Gaming Points
 * 'Turn-key' Solution For Partners
 * Integration of Networks
+* Defragmentation
 
 #### _aerocoin_
 > * Access. Coverage. Value.
@@ -68,6 +69,33 @@ not top of wallet, but on homepage
 
 
 
+## Meeting #4 - 09/06/18
+
+SLIDES:
+
+0) TITLE
+1) Pivot
+2) 
+3) 
+4) 
+5) 
+6) 
+7) Conclusions
+
+
+### What is the new AIMIA?
+
+* _A Data-Rich Analytics Company & Universal Loyalty Program._
+
+* _A Turn-Key Loyalty Network Powered By Analytics._
+
+* _An Industry Agnostic Turn-Key Loyalty Program Powered By Analytics_
+
+* __
+
+-
+
+
 
 ERIC'S NOTES
 
@@ -75,6 +103,8 @@ ERIC'S NOTES
     * 'stealth-hire top crypto & blockchain people, buy GAME & others, pivot there'
 
 * We should draw the cycle from the lecture on the board and mindmap
+
+* WHAT ABOUT THE "BAT"
 
 
 <p align="center">

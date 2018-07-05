@@ -83,5 +83,10 @@ Norm Changes
 
 9-10 admin meeting Monday
 
-Meeting Structure
-    * 
+
+-------------
+
+
+# Notes From Coaching Session With Karie!
+
+
