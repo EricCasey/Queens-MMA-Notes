@@ -30,3 +30,5 @@
 ## Meta-Conversation
     * Talking about your conversation about something else
 
+## Heteroskedasticity
+    * hetero “different” and skedasis “dispersion”
