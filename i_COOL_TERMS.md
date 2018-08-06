@@ -32,3 +32,8 @@
 
 ## Heteroskedasticity
     * hetero “different” and skedasis “dispersion”
+
+## Data Deluge or Information Explosion
+    * the side effects of bringing lots of information into scope
+
+    
