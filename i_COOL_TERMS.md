@@ -84,3 +84,15 @@
 ## Brownian Motion
     * Simulation of random motion of particles in a fluid or gas.
 
+## EMV: Expected Monetary Value
+    * The number used to compare different decisions.
+
+## Anscombe's Quartet
+    * Four scatterplots that look very different but have the same outputs
+
+## Least Squares Regression Line
+    * The line where the sum of the distrance from each point squared is the minimum
+
+## Generic Statistical Model
+    * response = f(explanatory) + noise
+    * Y => X + e
