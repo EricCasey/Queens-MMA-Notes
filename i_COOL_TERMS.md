@@ -96,3 +96,7 @@
 ## Generic Statistical Model
     * response = f(explanatory) + noise
     * Y => X + e
+
+## Utility Function
+    * The imaginary function of a customer's perspective on the usefullness of a product to them.
+
