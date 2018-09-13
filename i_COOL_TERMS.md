@@ -227,5 +227,63 @@
 ## Antithetic
     * Against the thesis, 'antithesis'
 
+## Specification Limits
+    * USL : upper specification limit
+    * LSL : lower specification limit
+
+## Process Capability Index
+    * CP = (USL - LSL) / 6-sigma
+
+## Six Sigma Process
+    * A process that yields 3.4 defective parts per million.
+        * Muda (無駄, also ムダ) (English: Waste)
+        * Mura (斑 or ムラ) (English: Unevenness)
+        * Muri (無理) (English: Overburden)
+
+## Poka-Yoke (ポカヨケ)
+    * Japanese word for 'error proofing'
+    * Originally 'baka-yoke' for 'idiot proofing'
+ 
+## Obeya (大部屋) 
+    * Manager's meeting. Literally: Large room, war room, council room
+
+## Jidoka (自働化)
+    * Japanese word meaning "Automation with a human touch"
+    * Build a culture of stopping to fix problems, to get quality right from the start.
+
+## Heijunka (平準化) 
+    * Level out the workload (work like the tortoise, not the hare)
+
+## Kaizen (改善)
+    * Japanese word for 'continuous improvement'
+
+## Gemba (現場) 
+    * The actual place, the place where the real work is done; On site
+
+## Andon (行灯) 
+    * A large lighted board used to alert floor supervisors to a problem at a specific station. Literally: Signboard)
+
+## Kanban (看板, also かんばん) 
+    * Sign, Index Card
+
+## Toyota Production System
+    * Waste of overproduction (largest waste)
+    * Waste of time on hand (waiting)
+    * Waste of transportation
+    * Waste of processing itself
+    * Waste of stock at hand
+    * Waste of movement
+    * Waste of making defective products
+    * Waste of underutilized workers
+
+## ANOVA Gauge R & R
+    * ANOVA gauge repeatability and reproducibility is a measurement systems analysis technique that uses an analysis of variance (ANOVA) random effects model to assess a measurement system.
+
+## The 5 Whys
+    * 5 Whys is an iterative interrogative technique used to explore the cause-and-effect relationships underlying a particular problem.[1] The primary goal of the technique is to determine the root cause of a defect or problem by repeating the question "Why?" Each answer forms the basis of the next question. The "5" in the name derives from an anecdotal observation on the number of iterations needed to resolve the problem.
+
+## S.I.P.O.C Tooling
+    * In process improvement, a SIPOC (sometimes COPIS) is a tool that summarizes the inputs and outputs of one or more processes in table form. The acronym SIPOC stands for suppliers, inputs, process, outputs, and customers which form the columns of the table. It was in use at least as early as the total quality management programs of the late 1980s[a] and continues to be used today in Six Sigma, lean manufacturing, and business process management.
+
 ## FUN FACTS:
     * AI Translation French-English is most robust because of Canada's public parliamentary notes
