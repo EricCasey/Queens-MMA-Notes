@@ -285,5 +285,72 @@
 ## S.I.P.O.C Tooling
     * In process improvement, a SIPOC (sometimes COPIS) is a tool that summarizes the inputs and outputs of one or more processes in table form. The acronym SIPOC stands for suppliers, inputs, process, outputs, and customers which form the columns of the table. It was in use at least as early as the total quality management programs of the late 1980s[a] and continues to be used today in Six Sigma, lean manufacturing, and business process management.
 
+## Chi-Square Goodness-of-fit
+    * Chi-Square Distribution is 
+
+## Simpson's Paradox
+    * Simpson's paradox, or the Yule–Simpson effect, is a phenomenon in probability and statistics, in which a trend appears in several different groups of data but disappears or reverses when these groups are combined. It is sometimes given the descriptive title reversal paradox or amalgamation paradox.
+
+## Cycles
+    * Something that is not nessessarily trending
+
+## Trends
+    * 
+
+## Exponential Smoothing
+    * New forecast = alpha * actual + (a - alpha) * old forecast
+    * Basically the further we go into the past when calculating moving averages & forecasts the less it impacts the prediction.
+
+## Holt's Model
+    * Smoothing with addititive trent
+    * includes a alpha * beta level
+
+## Winter's Model
+    * Smoothing with additiveve trend and seasonality.
+    * Includes 
+
+## Multiplicative smoothing methods
+
+## Decompositions
+
+## Multiple Seasonalities
+
+
+## Autoregressive Methods
+    * ARMA, ARIMA, ARCH, GARCH
+    * Dynamic Regressions
+    * Multiple correlated time-resires
+        * Vectoried auto-regressions
+
+## 'Classical' ARMA & ARIMA
+    * Auto-regression
+        * P
+    * Moving Average (this is different from the normal moving average)
+        * regressing on the error from the prev
+    * Differencing
+        * regressing on the difference between previous values and this value
+    * ARIMA(p,d,q)
+        * p = number of auto-regressive terms
+        * d = 'order of the first difference'
+        * q = num of moving average terms
+    ARIMA(0,0,0) white noise
+    ARIMA(0,1,0) random walk
+    ARIMA(0,1,0) rand walk with dirft
+    ARIMA(p,0,0) autoregression
+    ARIMA(0,0,q) moving average
+ 
+## Forecasting 'Cones'
+    * 
+
+## Rolling Horizon Holdout Datasets
+    * Predicting timeseries using a test set of previous time periods togeterh
+
+## Dynamic Regressions
+    * Blend a number of data-types
+
+## Trigonometric Seasonality (Fournier Transforms)
+    * Uses a combo of Sin & Cos to determine seasonality then creates intercepts for each wave so that when they're added together they come close to the actual variance in the data.
+
+
 ## FUN FACTS:
     * AI Translation French-English is most robust because of Canada's public parliamentary notes
