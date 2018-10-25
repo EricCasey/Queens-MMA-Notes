@@ -351,6 +351,59 @@
 ## Trigonometric Seasonality (Fournier Transforms)
     * Uses a combo of Sin & Cos to determine seasonality then creates intercepts for each wave so that when they're added together they come close to the actual variance in the data.
 
+## Classification Models
+    * 
 
-## FUN FACTS:
-    * AI Translation French-English is most robust because of Canada's public parliamentary notes
+## LOGIT Model 
+    * 
+
+## Probit Model
+    *
+
+## LL Log Likelyhood
+    * Log(X*Y*Z) = Log(X) + Log(Y) + Log(Z)
+
+## Gumball Distribution
+    * Gumbel distribution (Generalized Extreme Value distribution Type-I) is used to model the distribution of the maximum (or the minimum) of a number of samples of various distributions.
+
+## Classification Model Metrics
+    * Confusion Matrix
+        * Type I & II Errors
+    * ROC : Receiver Operating Characteristic Curve
+        * Bascially
+    * AUC : Area Under Curve
+        * 0.50 Random, 0.50-0.60 Fail,b0.60-0.70 Poor, 
+          0.70-0.80 Fair, 0.80-0.90 Good, 0.90-1 Excellent
+    * Lift Chart / Gains Chart
+        * Measure of cummulative model performance. 
+
+## Gini INdex
+    * Used to measure income inequality
+
+## Lorenz Curve
+    * 
+
+## CART: Classificaiton & Regression tree
+    * a set of questions (business/decision sules) hich partition data into poickets ("clusters") with similar charactersitics.
+
+## Condition Infercene CTREE
+    * 
+
+## RPART, Recursive Partitioning
+    * CP: Complexity Parameter (depth)
+        * High CP: Small Tree (underfit risk)
+        * Low CP: Big Tree (overfit risk)
+
+## XGBOOST: Extreme Gradient Boosting
+    * It runs a tree, finds mistakes, the makes the mistakes more important, repeat.
+
+## CART-like methods in Excel
+    * 
+
+## Random Forests
+    * Give CART model trees with multiple subsets of the data in different ways
+    * Fit many trees to differnt samples od data, then ensemble them.
+    * In addition to simply maiing a prediction, random forest provides an important insight into such variables show up in many trees.
+
+## Simplex Algorithm
+    * 
