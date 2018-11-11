@@ -407,3 +407,10 @@
 
 ## Simplex Algorithm
     * 
+
+## Tractability
+    * if an Algorithm is inefficient and is not expected to complete in your lifetime it is intractable.
+
+
+
+
